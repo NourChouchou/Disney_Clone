@@ -1,0 +1,81 @@
+ .img1{
+width: 536%;
+height: 600px;
+position: fixed;
+}
+.article1{
+    margin-top: 4%;
+    
+}
+.img2{
+    position: absolute;
+    margin-top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* Adjust the size of the overlay image as needed */
+    width: 200%;
+    height: auto;
+    align-items: center;
+    margin-left: 300%;
+}
+.img3{
+    position: absolute;
+    margin-top: 130%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* Adjust the size of the overlay image as needed */
+    width: 100%;
+    height: auto;
+    margin-left: 300%;
+}
+.article1 h5{
+    color: white;
+    font-size: 90%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   margin-left: 300%;
+   margin-top:150% ;
+  
+}
+.butn h6{
+    margin-top: 170%;
+    margin-left: 500%;
+    color: white;
+}
+.card{
+    width: 97%;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.article2{
+    width: 100%;
+    height: 620px;
+    background-color: rgb(7, 32, 68);
+}
+.article2 h4{
+    color: white;
+    position: absolute;
+    text-align: center;
+    margin-left: 43%;
+    margin-top: 2%;
+}
+.row1{
+    position: absolute;
+
+} 
+.icons {
+    align-items: center;
+    margin-left: 20%;
+    
+}
+.btn h5{
+    position: absolute;
+}
+.footer{
+    background-color: white;
+}
+
+
+
